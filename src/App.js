@@ -30,7 +30,7 @@ function App() {
       }}
     >
       <div style={{ color: 'white', fontWeight: 'bold', marginBottom: '16px' }}>
-        Botvor er en bot
+        Work in Progress
       </div>
       <div>
       <svg width="128" height="128" viewBox="0 0 128 128">
